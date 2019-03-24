@@ -1,0 +1,26 @@
+# ninja log v5
+1	60	1553447053	CMakeFiles/native-lib.dir/src/main/cpp/trace.cpp.o	2dd8d42cf0cb7b41
+1	225	1553447053	CMakeFiles/native-lib.dir/src/main/cpp/SineGenerator.cpp.o	14534cc7e996a4cd
+16	303	1553447053	oboe/CMakeFiles/oboe.dir/src/aaudio/AAudioLoader.cpp.o	c9c4da8dd1d67ae1
+60	1167	1553447054	oboe/CMakeFiles/oboe.dir/src/common/LatencyTuner.cpp.o	377c568805df9937
+1	1425	1553447054	CMakeFiles/native-lib.dir/src/main/cpp/jni_bridge.cpp.o	861d7d26bdf3beff
+1	1586	1553447055	CMakeFiles/native-lib.dir/src/main/cpp/PlayAudioEngine.cpp.o	96f6246ffaca5a5a
+1587	1690	1553447055	oboe/CMakeFiles/oboe.dir/src/fifo/FifoController.cpp.o	6e3623e7f5858b61
+1690	1743	1553447055	oboe/CMakeFiles/oboe.dir/src/fifo/FifoControllerBase.cpp.o	5adbd5921eff1c5e
+303	1765	1553447055	oboe/CMakeFiles/oboe.dir/src/common/AudioStreamBuilder.cpp.o	16f7432cbf084434
+225	1830	1553447055	oboe/CMakeFiles/oboe.dir/src/common/AudioStream.cpp.o	cc4b9f0232d77220
+1743	1840	1553447055	oboe/CMakeFiles/oboe.dir/src/fifo/FifoControllerIndirect.cpp.o	710f8774e76e78e7
+1425	1866	1553447055	oboe/CMakeFiles/oboe.dir/src/fifo/FifoBuffer.cpp.o	da93634992879e0
+23	1928	1553447055	oboe/CMakeFiles/oboe.dir/src/aaudio/AudioStreamAAudio.cpp.o	6549deef0c6a527c
+1830	3202	1553447056	oboe/CMakeFiles/oboe.dir/src/opensles/AudioInputStreamOpenSLES.cpp.o	dfb042973d3c65be
+1765	3210	1553447056	oboe/CMakeFiles/oboe.dir/src/opensles/AudioStreamBuffered.cpp.o	6a5c52a1fcf70481
+1840	3301	1553447056	oboe/CMakeFiles/oboe.dir/src/opensles/AudioOutputStreamOpenSLES.cpp.o	2d1393bab219e923
+1928	3452	1553447056	oboe/CMakeFiles/oboe.dir/src/opensles/EngineOpenSLES.cpp.o	7c3c4aaf3e2a92cc
+3452	3557	1553447057	oboe/CMakeFiles/oboe.dir/src/common/Trace.cpp.o	712478d87f7b4b7c
+1866	3872	1553447057	oboe/CMakeFiles/oboe.dir/src/opensles/AudioStreamOpenSLES.cpp.o	49343e845fa2625a
+1167	3961	1553447057	oboe/CMakeFiles/oboe.dir/src/common/Utilities.cpp.o	951281b211593167
+3301	4093	1553447057	oboe/CMakeFiles/oboe.dir/src/common/StabilizedCallback.cpp.o	e0179c1c097589fc
+3202	4102	1553447057	oboe/CMakeFiles/oboe.dir/src/opensles/OpenSLESUtilities.cpp.o	a482e925c76e30f1
+3210	4239	1553447057	oboe/CMakeFiles/oboe.dir/src/opensles/OutputMixerOpenSLES.cpp.o	e0d48c2d0bfe9ceb
+4239	4267	1553447057	oboe/liboboe.a	2e77bd0f1e2ccdc4
+4267	4389	1553447057	/home/cedric/projects/flutter_oboe/example/flutter_oboe/example/build/flutter_oboe/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so	8b3f4ee6eb2e2191

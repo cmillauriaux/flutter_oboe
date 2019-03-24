@@ -1,0 +1,6 @@
+/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/native-lib.dir
+/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/armeabi-v7a/oboe/CMakeFiles/rebuild_cache.dir
+/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/armeabi-v7a/oboe/CMakeFiles/edit_cache.dir
+/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/armeabi-v7a/oboe/CMakeFiles/oboe.dir

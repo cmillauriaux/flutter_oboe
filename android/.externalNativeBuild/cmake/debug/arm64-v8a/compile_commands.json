@@ -1,0 +1,139 @@
+[
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -Dnative_lib_EXPORTS -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/jni_bridge.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/jni_bridge.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/jni_bridge.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -Dnative_lib_EXPORTS -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/PlayAudioEngine.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/PlayAudioEngine.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/PlayAudioEngine.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -Dnative_lib_EXPORTS -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/SineGenerator.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/SineGenerator.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/SineGenerator.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -Dnative_lib_EXPORTS -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/src/main/cpp/trace.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/trace.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/trace.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/aaudio/AAudioLoader.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/aaudio/AAudioLoader.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/aaudio/AAudioLoader.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/aaudio/AudioStreamAAudio.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/aaudio/AudioStreamAAudio.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/aaudio/AudioStreamAAudio.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/LatencyTuner.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/LatencyTuner.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/LatencyTuner.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/AudioStream.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/AudioStream.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/AudioStream.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/AudioStreamBuilder.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/AudioStreamBuilder.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/AudioStreamBuilder.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/Utilities.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/Utilities.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/Utilities.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoBuffer.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoBuffer.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoBuffer.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoController.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoController.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoController.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoControllerBase.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoControllerBase.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoControllerBase.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/fifo/FifoControllerIndirect.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoControllerIndirect.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoControllerIndirect.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioInputStreamOpenSLES.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioInputStreamOpenSLES.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioInputStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioOutputStreamOpenSLES.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioOutputStreamOpenSLES.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioOutputStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioStreamBuffered.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioStreamBuffered.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioStreamBuffered.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/AudioStreamOpenSLES.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioStreamOpenSLES.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioStreamOpenSLES.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/EngineOpenSLES.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/EngineOpenSLES.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/EngineOpenSLES.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/OpenSLESUtilities.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/OpenSLESUtilities.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/OpenSLESUtilities.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/opensles/OutputMixerOpenSLES.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/OutputMixerOpenSLES.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/OutputMixerOpenSLES.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/StabilizedCallback.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/StabilizedCallback.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/StabilizedCallback.cpp"
+},
+
+{
+  "directory": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/arm64-v8a",
+  "command": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++  -O0 -fno-limit-debug-info  -fPIC   -std=c++11 -Wall -Werror -Ofast -o oboe/CMakeFiles/oboe.dir/src/common/Trace.cpp.o -c /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/Trace.cpp",
+  "file": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/Trace.cpp"
+}
+]

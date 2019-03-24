@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/CMakeLists.txt",
+    "/home/cedric/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/CMakeLists.txt",
+    "/home/cedric/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/x86 --target native-lib",
+      "abi": "x86",
+      "output": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/example/build/flutter_oboe/intermediates/cmake/release/obj/x86/libnative-lib.so"
+    },
+    "oboe-Release-x86": {
+      "artifactName": "oboe",
+      "buildCommand": "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/x86 --target oboe",
+      "abi": "x86",
+      "output": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/release/x86/oboe/liboboe.a"
+    }
+  }
+}

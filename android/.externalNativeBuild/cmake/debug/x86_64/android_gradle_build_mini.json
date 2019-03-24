@@ -1,0 +1,25 @@
+{
+  "buildFiles": [
+    "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/CMakeLists.txt",
+    "/home/cedric/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/CMakeLists.txt",
+    "/home/cedric/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/x86_64 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/x86_64 --target native-lib",
+      "abi": "x86_64",
+      "output": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/example/build/flutter_oboe/intermediates/cmake/debug/obj/x86_64/libnative-lib.so"
+    },
+    "oboe-Debug-x86_64": {
+      "artifactName": "oboe",
+      "buildCommand": "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/x86_64 --target oboe",
+      "abi": "x86_64",
+      "output": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/x86_64/oboe/liboboe.a"
+    }
+  }
+}

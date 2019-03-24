@@ -1,0 +1,179 @@
+{
+  "stringTable": {
+    "0": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DOBOE_ENABLE_LOGGING=1 -Dnative_lib_EXPORTS -I../../../../oboe_src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DOBOE_ENABLE_LOGGING=1 -I../../../../oboe_src/src -I../../../../oboe_src/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -stdlib=libc++ -O0 -fno-limit-debug-info -fPIC -std=c++11 -Wall -Werror -Ofast",
+    "3": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/armeabi-v7a/oboe"
+  },
+  "buildFiles": [
+    "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/CMakeLists.txt",
+    "/home/cedric/Android/Sdk/ndk-bundle/build/cmake/platforms.cmake",
+    "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/CMakeLists.txt",
+    "/home/cedric/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "oboe-Debug-armeabi-v7a": {
+      "buildCommand": "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target oboe",
+      "buildType": "debug",
+      "toolchain": "3394649153",
+      "abi": "armeabi-v7a",
+      "artifactName": "oboe",
+      "files": [
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/aaudio/AAudioLoader.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/aaudio/AudioStreamAAudio.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/LatencyTuner.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/AudioStream.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/AudioStreamBuilder.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/Utilities.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoBuffer.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoController.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoControllerBase.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/fifo/FifoControllerIndirect.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioInputStreamOpenSLES.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioOutputStreamOpenSLES.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioStreamBuffered.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/AudioStreamOpenSLES.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/EngineOpenSLES.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/OpenSLESUtilities.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/opensles/OutputMixerOpenSLES.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/StabilizedCallback.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/oboe_src/src/common/Trace.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 3
+        }
+      ],
+      "output": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/armeabi-v7a/oboe/liboboe.a"
+    },
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommand": "/home/cedric/Android/Sdk/cmake/3.10.2.4988404/bin/cmake --build /home/cedric/projects/flutter_oboe/example/flutter_oboe/android/.externalNativeBuild/cmake/debug/armeabi-v7a --target native-lib",
+      "buildType": "debug",
+      "toolchain": "3394649153",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/logging_macros.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/PlayAudioEngine.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/SineGenerator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/trace.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/jni_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/PlayAudioEngine.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/SineGenerator.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/android/src/main/cpp/trace.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/home/cedric/projects/flutter_oboe/example/flutter_oboe/example/build/flutter_oboe/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "3394649153": {
+      "cppCompilerExecutable": "/home/cedric/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
